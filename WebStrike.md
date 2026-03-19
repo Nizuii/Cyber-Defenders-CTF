@@ -1,4 +1,4 @@
-# 🔵 Incident Report — WebStrike Lab
+# Incident Report — WebStrike Lab
 **Platform:** CyberDefenders Blue Team CTF  
 **Lab:** WebStrike (SOC Analyst Tier 1 — Level 1)  
 **Category:** Network Forensics  
