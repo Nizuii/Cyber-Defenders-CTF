@@ -239,9 +239,8 @@ This report was created as part of a cybersecurity learning exercise to develop 
 
 ## Author
 
-**Name:** [Your Name]
-**Role:** SOC Analyst (Student)
-**Focus Areas:** Cybersecurity, Threat Detection, Incident Response
-**GitHub:** [Your GitHub Profile Link]
+**Name:** Nizamudheen KN  
+**Role:** SOC Analyst (Student)  
+**Focus Areas:** Cybersecurity, Threat Detection, Incident Response  
 
 ---
